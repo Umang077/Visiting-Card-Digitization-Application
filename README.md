@@ -1,5 +1,5 @@
 📇 Visiting Card Digitization App – Built for Trident Group during my Internship!
-An intelligent, cross-platform React Native app designed to replace outdated manual visiting card entry processes — and launched in just 25 days to meet a strategic goal from the Chairman’s office.
+An intelligent, cross-platform React Native app designed to replace outdated manual visiting card entry processes  and launched in just 25 days to meet a strategic goal from the Chairman’s office.
 
 🔍 What It Does:
 
@@ -10,5 +10,5 @@ Displays extracted data in a clean, searchable table view, enabling employees to
 Optimized for both iOS and Android, enhancing user experience, flexibility, and overall productivity across departments.
 
 📈 Impact:
-Streamlined company-wide contact management, accelerated workflows, and contributed directly to Trident's long-term vision of going paperless — one smart app at a time.
+Streamlined company-wide contact management, accelerated workflows, and contributed directly to Trident's long-term vision of going paperless, one smart app at a time.
 
